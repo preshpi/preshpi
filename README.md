@@ -26,21 +26,18 @@
   
 </div>
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working with React Js, Tailwind CSS, Vue JS, AOS
+- 🌱 I’m currently learning ContextAPI, React Native
+- 👯 I’m looking to collaborate on Web Developers 
+- 💬 Ask me about anything tech <a href="mailto:egwuenuprecious7@gmail.com"> egwuenuprecious7@gmail.com</a>
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I sleep when I watch tutorials 
+
 ### :fire: My Stats :
 ![Preshpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshpi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preshpi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **preshpi/preshpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
