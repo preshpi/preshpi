@@ -28,6 +28,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=preshpi&theme=dark)](https://git.io/streak-stats)
+[![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshpi)](https://github.com/preshpi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preshpi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
