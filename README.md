@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with NextJS
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on Web Developers 
-- 💬 Ask me about anything tech <a href="mailto:egwuenuprecious7@gmail.com"> egwuenuprecious7@gmail.com</a>
+- 💬 Ask me about anything tech <a href="mailto:ijeomaegwuenu22@gmail.com"> ijeomaegwuenu22@gmail.com</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching movies and making programming contents
 
