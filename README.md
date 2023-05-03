@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Developers 
 - 💬 Ask me about anything tech <a href="mailto:ijeomaegwuenu22@gmail.com"> ijeomaegwuenu22@gmail.com</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love watching movies and making programming contents
+- ⚡ Fun fact: I love watching Kdrama and making programming contents
 
 
 ### :fire: My Stats :
