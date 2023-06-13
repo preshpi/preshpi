@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love watching Kdrama and making programming contents on <a href="https://www.tiktok.com/@tech.girl_?lang=en"> tiktok </a>
 
 
-### :fire: My Stats :
-![Preshpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshpi&show_icons=true&theme=tokyonight)
+<!-- ### :fire: My Stats : -->
+<!-- ![Preshpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preshpi&show_icons=true&theme=tokyonight) -->
 <!--
 **preshpi/preshpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
