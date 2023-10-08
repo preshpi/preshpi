@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working with NextJS
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on Web Developers 
+- 👯 I’m looking to collaborate with Web Developers 
 - 💬 Ask me about anything tech <a href="mailto:ijeomaegwuenu22@gmail.com"> ijeomaegwuenu22@gmail.com</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching Kdrama and enjoy making programming contents on <a href="https://www.tiktok.com/@tech.girl_?lang=en"> tiktok </a>
