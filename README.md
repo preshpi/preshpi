@@ -18,7 +18,7 @@
 - 🔭 I’m currently working with NextJS and TypeScript
 - 🌱 I’m currently learning React Native and Testing
 - 👯 I’m looking to collaborate with Web Developers 
-- 💬 send a message for collab or chat <a href="mailto:ijeomaegwuenu22@gmail.com"> ijeomaegwuenu22@gmail.com</a>
+- 💬 send a message for collab or chat <a href="mailto:pietech55@gmail.com">pietech55@gmail.com</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love watching movies and enjoy making programming contents on <a href="https://www.tiktok.com/@preshdevvv?_t=8jR4aSHP4oH&_r=1"> tiktok </a>
 
