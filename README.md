@@ -13,7 +13,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-### Here are some ideas to get you started:
+### About me
 
 - 🔭 I’m currently working with NextJS and TypeScript
 - 🌱 I’m currently learning React Native and Testing
