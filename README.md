@@ -17,7 +17,7 @@
 </div>
 
 ### 🌍 Community Involvement
-📹 I create tech content on TikTok to help others get into tech – currently growing with 30+ followers!
+📹 I create tech content on <a href="https://www.tiktok.com/@preshdevvv?lang=en"> TikTok</a> to help others get into tech – currently growing with 30+ followers!
 
 🙋🏽‍♀️ Volunteered as a Content Creator with <a href="https://shecodeafrica.org/"> She Code Africa</a>, supporting their mission to empower African women in tech.
 
