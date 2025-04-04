@@ -1,7 +1,5 @@
 ## Hi, I'm Precious 👋 
-### I'm a Frontend Devleoper.
-
- 📫 How to reach me: <a href="https://linktr.ee/preciousegwuenu"> click here </a>
+### I'm a passionate *Frontend Developer* who enjoys turning ideas into beautiful, accessible web experiences.
   
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -11,15 +9,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
+                    
+          
 </div>
 
-### About me
+### 🌍 Community Involvement
+📹 I create tech content on TikTok to help others get into tech – currently growing with 30+ followers!
 
-- 🔭 I’m currently working with NextJS and TypeScript
-- 🌱 I’m currently learning React Native and Testing
-- 👯 I’m looking to collaborate with Web Developers 
-- 💬 send a message for collab or chat <a href="mailto:pietech55@gmail.com">pietech55@gmail.com</a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love watching movies and enjoy making programming contents on <a href="https://www.tiktok.com/@preshdevvv?_t=8jR4aSHP4oH&_r=1"> tiktok </a>
+🙋🏽‍♀️ Volunteered as a Content Creator with <a href="https://shecodeafrica.org/"> She Code Africa</a>, supporting their mission to empower African women in tech.
 
-
+🤝 Participated in various tech events as a volunteer, supporting coordination, engagement, and content.
