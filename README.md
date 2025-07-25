@@ -12,6 +12,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress" width="40" height="40"/>
+          
+    
                     
           
 </div>
